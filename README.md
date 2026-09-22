@@ -20,7 +20,7 @@ Desenvolvo aplicações com **Java/Spring Boot e Next.js**, além de Python/Flas
 
 | Área | Tecnologias |
 | --- | --- |
-| Frontend | Next.js, React, TypeScript, JavaScript, Tailwind CSS, Ant Design |
+| Frontend | Next.js, React, JavaScript, Tailwind CSS, Ant Design |
 | Backend | Java, Spring Boot, C#, .NET, ASP.NET Core, Python, Flask, Clojure, Pedestal |
 | Dados e mensageria | PostgreSQL, DynamoDB, AuroraDB, Redis, RabbitMQ, AWS SQS |
 | Cloud e entrega | AWS, Docker, GitHub Actions, CI/CD |
