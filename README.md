@@ -5,7 +5,7 @@
 
   <a href="mailto:joao.pedro.santos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Enviar e-mail" /></a>
   <a href="https://github.com/joao-juvino"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Meu GitHub" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santosb6864123b"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Meu LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-b6864123b"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="Meu LinkedIn" /></a>
   <a href="https://joao-juvino.github.io/Portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Meu portfólio" /></a>
   <img src="https://img.shields.io/badge/Campina%20Grande-PB-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Campina Grande, PB" />
 </div>
@@ -43,7 +43,7 @@ Sou engenheiro de software fullstack com mais de **3 anos de experiência**, con
 
 <div align="center">
   <a href="mailto:joao.pedro.santos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Me%20envie%20um%20email-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Me envie um e-mail" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-santosb6864123b"><img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-santos-b6864123b"><img src="https://img.shields.io/badge/LinkedIn-0369A1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver LinkedIn" /></a>
   <a href="https://joao-juvino.github.io/Portifolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portfólio" /></a>
 </div>
 
